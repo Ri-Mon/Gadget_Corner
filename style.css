@@ -1,3 +1,8 @@
+
+        /* setting overflow of body contents*/
+        body{
+                overflow-x: hidden;
+        }
         /* navigation system container */
         .navbar{
           background-color: rgb(26,24,122);         
